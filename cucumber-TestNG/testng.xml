@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<suite name="Automation Practice Test Suite">
+	<test name="General Testing">
+		<classes>
+			<class name="AutomationPractice_TestRunner.AutomationPractice_TestRunner" />
+		</classes>
+	</test>
+</suite>
